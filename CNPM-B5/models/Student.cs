@@ -8,5 +8,6 @@ namespace CNPM_B5.models
 {
     internal class Student
     {
+        public int ID { get; set; }
     }
 }
